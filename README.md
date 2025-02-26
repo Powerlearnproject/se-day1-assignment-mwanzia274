@@ -261,6 +261,7 @@ Identifies issues in data communication between modules.
 Detects problems like API mismatches, database connectivity issues, or incompatible data formats.
 Ensures that individual components, once combined, work together as expected.
 Tools like Postman, Selenium, and JUnit can be used for integration testing.
+
 Example:
 Testing an e-commerce website's checkout process, where different modules such as the shopping cart, payment gateway, and inventory management system interact.
 
@@ -294,6 +295,7 @@ Example:
 A company testing a new customer relationship management (CRM) software by allowing employees to use it and provide feedback before official rollout.
 
 Conclusion
+
 Each type of testing plays a vital role in ensuring software quality. Unit Testing ensures individual components function correctly, Integration Testing validates interactions between modules, System Testing ensures overall functionality, and Acceptance Testing confirms that the system meets user requirements. A well-structured testing strategy enhances software reliability, performance, and security, leading to a better user experience and minimized defects post-deployment.
 
 #Part 2: Introduction to AI and Prompt Engineering
@@ -303,6 +305,7 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 Prompt engineering is the process of designing and optimizing input prompts to achieve more accurate, relevant, and useful responses from AI models. It involves structuring queries or instructions in a way that maximizes the effectiveness of AI-generated outputs. This is particularly important for large language models (LLMs) like ChatGPT, GPT-4, and Bard, which rely on well-crafted prompts to generate meaningful responses.
 
 Importance of Prompt Engineering in AI Interaction
+
 Enhances Response Accuracy and Relevance
 A well-structured prompt provides context and clear instructions, ensuring that AI delivers precise and relevant responses. For example, asking "Explain the impact of inflation on the hospitality industry in Kenya with recent examples" yields a more targeted answer than simply asking "Explain inflation."
 
@@ -319,6 +322,7 @@ Enhances Control Over AI Behavior
 By specifying instructions, tone, or output format, users can guide AI behavior. For example, "Summarize this article in bullet points" versus "Summarize this article in one paragraph."
 
 Conclusion
+
 Prompt engineering is a crucial skill for maximizing the capabilities of AI models. Whether for automation, research, customer support, or software development, crafting effective prompts ensures efficiency, accuracy, and relevance in AI interactions. As AI continues to evolve, mastering prompt engineering will be essential for leveraging its full potential.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
@@ -328,6 +332,7 @@ Example of a Vague Prompt:
 "Tell me about technology."
 
 Problems with the Vague Prompt:
+
 Too Broad: The term "technology" covers numerous fields (AI, software, hardware, biotech, etc.).
 Lacks Specificity: It does not specify what aspect of technology is needed (history, impact, trends, etc.).
 No Context or Purpose: It does not indicate whether the user wants a definition, an analysis, or recent developments.
@@ -335,6 +340,7 @@ Improved Prompt:
 "Provide a brief overview of recent advancements in artificial intelligence, focusing on its impact on the healthcare industry."
 
 Why the Improved Prompt is More Effective?
+
 Specific Topic: It narrows the focus to artificial intelligence (AI) rather than all technology.
 Defined Scope: It asks for "recent advancements" rather than general information.
 Industry Focus: It targets AI’s impact on healthcare rather than technology as a whole.
