@@ -193,6 +193,7 @@ Software engineers encounter various challenges during development, ranging from
 Software projects often experience frequent requirement changes due to evolving client needs, market trends, or unforeseen issues.
 
 Strategies to Overcome
+
 Adopt Agile Methodology – Using Agile or Scrum frameworks ensures flexibility through iterative development and continuous feedback.
 Maintain Clear Documentation – Keeping updated requirement documents helps track changes efficiently.
 Engage Stakeholders Regularly – Frequent communication with clients and stakeholders helps align expectations and prevent major disruptions.
